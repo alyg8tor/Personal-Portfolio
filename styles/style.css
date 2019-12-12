@@ -535,8 +535,8 @@ footer p {
     }
     
     #project_intro {
-        margin-left: 60px;
-        width: 650px;
+        margin-left: 5%;
+        width: 90%;
     }
 
     #P_mywork {
@@ -558,8 +558,8 @@ footer p {
     }
     
     #myprojects {
-        margin-left: 60px;
-        width: 650px;
+        margin-left: 5%;
+        width: 90%;
         padding: 0px;
     }
     

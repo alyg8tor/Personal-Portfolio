@@ -610,14 +610,14 @@ footer p {
     }
 
     #projects {
-        height: 500px;
+        height: 400px;
         width: 100%;
     }
     
     #projects-header {
         font-size: 20px;
         padding-top: 100px;
-        padding-bottom: 50px;
+        padding-bottom: 20px;
     }
     
     #projects-link {
@@ -630,13 +630,18 @@ footer p {
     }
     
     .project-tile {
-        height: 80px;
-        width: 60px;
+        height: 90px;
+        width: 70px;
+    }
+
+    figure {
+        background-color: initial;
+        box-shadow: none;
     }
     
     figcaption {
         width: 40px;
-        font-size: 10px;
+        font-size: 5px;
     }
     
     #contact h1 {
@@ -704,12 +709,12 @@ footer p {
     }
 
     .project_pic {
-        max-width: 80px;
+        max-width: 90px;
         max-height: 120px;
     }
 
     .project_pic2 {
-        max-width: 80px;
+        max-height: 60px;
     }
 
     #footer {

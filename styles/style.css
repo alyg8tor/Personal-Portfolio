@@ -655,7 +655,7 @@ footer p {
     }
     
     .about-image {
-        max-height: 325px;
+        max-height: 300px;
     }
     
     #mobile {
@@ -696,6 +696,7 @@ footer p {
 
     .project_pic {
         max-width: 80px;
+        max-height: 120px;
     }
 
     #footer {

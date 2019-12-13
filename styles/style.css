@@ -444,6 +444,11 @@ footer p {
     padding: 20px;
 }
 
+.project_pic2 {
+    max-width: 250px;
+    padding: 20px;
+}
+
 .project_vid {
     padding: 20px;
     width: 500px;
@@ -572,6 +577,10 @@ footer p {
     .project_pic {
         max-width: 175px;
     }
+
+    .project_pic2 {
+        max-width: 175px;
+    }
     
     .project_vid {
         width: 400px;
@@ -697,6 +706,10 @@ footer p {
     .project_pic {
         max-width: 80px;
         max-height: 120px;
+    }
+
+    .project_pic2 {
+        max-width: 80px;
     }
 
     #footer {
